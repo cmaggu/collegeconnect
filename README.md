@@ -2,4 +2,4 @@
 College connect application for Mentorship
 
 ## Implementation Details
-_Group B_ is going to add details here.
+__Group B__ is going to add details here.
